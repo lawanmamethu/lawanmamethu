@@ -73,6 +73,8 @@ These are two projects I'm proud of. Both started as ideas and ended up as real,
 
 **✈️ Jettransfer Travels** — A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
 
+**💰 Expense Tracker App** - An app manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports. The app aims to improve personal financial management with a simple and user-friendly interface.
+
 ---
 
 ## 📊 My GitHub in numbers
