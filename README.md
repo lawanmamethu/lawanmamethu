@@ -28,7 +28,7 @@ When I'm not coding, you'll probably find me on Instagram 📸 or thinking about
 
 I'm comfortable across the full stack - here's what I reach for depending on the job:
 
-### Frontend — the stuff people see
+### Frontend - the stuff people see
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ I'm comfortable across the full stack - here's what I reach for depending on the
 
 </div>
 
-### Backend — the engine underneath
+### Backend - the engine underneath
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -69,9 +69,9 @@ These are two projects I'm proud of. Both started as ideas and ended up as real,
 
 </div>
 
-**👗 OneFit Clothing** — An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
+**👗 OneFit Clothing** - An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
 
-**✈️ Jettransfer Travels** — A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
+**✈️ Jettransfer Travels** - A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
 
 **💰 Expense Tracker App** - An app manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports. The app aims to improve personal financial management with a simple and user-friendly interface.
 
@@ -79,7 +79,7 @@ These are two projects I'm proud of. Both started as ideas and ended up as real,
 
 ## 📊 My GitHub in numbers
 
-I try to code consistently — here's an honest look at my activity:
+I try to code consistently - here's an honest look at my activity:
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I try to code consistently — here's an honest look at my activity:
 
 ## 🌱 Recent activity
 
-Every dot on this graph is a commit — a small step toward something bigger.
+Every dot on this graph is a commit - a small step toward something bigger.
 
 <div align="center">
 
