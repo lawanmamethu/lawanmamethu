@@ -71,25 +71,21 @@ These are two projects I'm proud of. Both started as ideas and ended up as real,
 
 **👗 OneFit Clothing** - An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
 
+🔗 - https://github.com/lawanmamethu/OneFit-Clothing-Website 
+
 **✈️ Jettransfer Travels** - A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
+
+🔗 - https://github.com/lawanmamethu/Jettransfer-Travels-Project-
 
 **💰 Expense Tracker App** - An app manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports. The app aims to improve personal financial management with a simple and user-friendly interface.
 
----
+**🤖 AI Model System – Dataset Metamorphosis (Reverse Curriculum)** - An AI model system built with Python to explore machine learning integrations. Gained hands-on experience with AI-driven functionality, data transformation, and model experimentation. Used ChatGPT and GitHub Copilot as pair-programmers to accelerate development.
 
-## 📊 My GitHub in numbers
-
-I try to code consistently - here's an honest look at my activity:
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lawanmamethu&theme=radical&border=e96c4c&stroke=e96c4c&ring=6c5ce7&fire=e96c4c&currStreakLabel=ffffff" width="48%" />
-
-<br/><br/>
-
-</div>
+**☕ Java Application Development** - A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured. 
 
 ---
+
+
 
 ## 🌱 Recent activity
 
