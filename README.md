@@ -83,6 +83,10 @@ These are two projects I'm proud of. Both started as ideas and ended up as real,
 
 **☕ Java Application Development** - A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured. 
 
+**🦩 Ballerina Hello World API** - A simple, elegant REST API built with Ballerina – my first step into the world of integration-focused programming.  
+
+🔗 - https://github.com/lawanmamethu/ballerina-hello-api-
+
 ---
 
 
