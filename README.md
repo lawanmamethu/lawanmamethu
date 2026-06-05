@@ -112,7 +112,7 @@ I'm always open to interesting conversations, collaborations, or just a friendly
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iammethuu?igsh=MWp3YXBsZnBuMjZsNg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1F8gLG66ke/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lawanmamethu)
-[![Web Profile](https://img.shields.io/badge/Profile-4EA94B?style=for-the-badge&logo=profile&logoColor=white)](https://methuliportfolio.netlify.app)
+[![Web Profile](https://img.shields.io/badge/Profile-4EA94B?style=for-the-badge&logo=profile&logoColor=white)](https://myprofessionalportfoliowebsite.netlify.app/)
 
 </div>
 
