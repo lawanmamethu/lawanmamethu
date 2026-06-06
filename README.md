@@ -87,6 +87,10 @@ These are two projects I'm proud of. Both started as ideas and ended up as real,
 
 🔗 - https://github.com/lawanmamethu/ballerina-hello-api-
 
+**🖼 Lumina - Image Gallery Web App** - Lumina is a curated, responsive image gallery featuring dynamic category filtering and an immersive lightbox experience. Built with pure HTML, CSS, and JavaScript - no frameworks, no dependencies.
+
+🔗 - https://github.com/lawanmamethu/lumina-image-gallery-app
+
 ---
 
 
