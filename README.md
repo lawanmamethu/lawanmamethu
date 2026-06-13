@@ -62,38 +62,148 @@ I'm comfortable across the full stack - here's what I reach for depending on the
 
 ## 🚀 Things I've built
 
-These are two projects I'm proud of. Both started as ideas and ended up as real, working products.
+These are projects I'm proud of. Some started as internship tasks, others as personal ideas – all ended up as real, working products.
 
-<div align="center">
+### 🌐 Responsive Landing Page
+
+A fully responsive landing page with semantic HTML5, CSS Flexbox/Grid, smooth scrolling, and modern animations. Mobile-first design that adapts seamlessly across all devices.
+
+**Tech:** HTML5, CSS3, JavaScript
 
 
-</div>
+### 📝 Interactive Form
 
-**👗 OneFit Clothing** - An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
+Dynamic form with real-time validation for name, email, phone, and password. Features password strength meter, live error messages, and focus/blur events for better UX.
 
-🔗 - https://github.com/lawanmamethu/OneFit-Clothing-Website 
+**Tech:** HTML5, CSS3, JavaScript, DOM Manipulation
 
-**✈️ Jettransfer Travels** - A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
 
-🔗 - https://github.com/lawanmamethu/Jettransfer-Travels-Project-
+### 🧮 Counter App
 
-**💰 Expense Tracker App** - An app manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports. The app aims to improve personal financial management with a simple and user-friendly interface.
+Vanilla JavaScript counter demonstrating DOM manipulation with increment, decrement (min zero), and reset buttons. Clean, minimalistic design with event listeners.
 
-**🤖 AI Model System – Dataset Metamorphosis (Reverse Curriculum)** - An AI model system built with Python to explore machine learning integrations. Gained hands-on experience with AI-driven functionality, data transformation, and model experimentation. Used ChatGPT and GitHub Copilot as pair-programmers to accelerate development.
+**Tech:** HTML5, CSS3, JavaScript, Event Listeners
 
-**☕ Java Application Development** - A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured. 
 
-**🦩 Ballerina Hello World API** - A simple, elegant REST API built with Ballerina – my first step into the world of integration-focused programming.  
+### ⚛️ React SPA
 
-🔗 - https://github.com/lawanmamethu/ballerina-hello-api-
+Single Page Application with React Router (Home, About, Contact pages). Features Context API for state management, smooth navigation without page reloads, and responsive design.
 
-**🖼 Lumina - Image Gallery Web App** - Lumina is a curated, responsive image gallery featuring dynamic category filtering and an immersive lightbox experience. Built with pure HTML, CSS, and JavaScript - no frameworks, no dependencies.
+**🔗 GitHub:** https://github.com/lawanmamethu/react-mySPA-app
 
-🔗 - https://github.com/lawanmamethu/lumina-image-gallery-app
+**Tech:** React, React Router, Context API, CSS3
+
+
+### 🌤️ Weather App
+
+Real-time weather application using OpenWeather API. Features debounced search, loading states, error handling, and a beautiful sunset gradient UI. Built with vanilla JavaScript.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/weather-app
+
+**Tech:** HTML5, CSS3, JavaScript, Fetch API, REST APIs
+
+
+### 🎨 Tailwind CSS Dashboard
+
+Modern brand dashboard with fully customized Tailwind theme (sunset gradient colors: coral, orange, yellow). Includes responsive navbar, feature cards, pricing tables, and smooth animations.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/nexura-brand-ui
+
+**Tech:** Tailwind CSS, HTML5, CSS3, JavaScript
+
+
+### 📦 Component Library
+
+Reusable React component library (Button, Card, Input, Modal) documented with Storybook. Features ARIA accessibility, multiple variants, and NPM package ready.
+
+**Tech:** React, Storybook, CSS3, ARIA
+
+
+### ⚡ Performance Optimization
+
+Optimized web app using Lighthouse achieving 95+ scores. Implemented lazy loading, WebP images, minification, caching, and reduced render-blocking resources.
+
+**Tech:** HTML5, CSS3, JavaScript, Lighthouse, WebP
+
+
+### 🎬 GSAP Advanced Animations
+
+Professional animations using GSAP including scroll-triggered effects, hover interactions (rocket launch, heartbeat, spin, wobble, pulse, glow), timeline sequences, and parallax scrolling.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/gsap-advanced-animations
+
+**Tech:** GSAP, ScrollTrigger, HTML5, CSS3, JavaScript
+
+
+### 👗 OneFit Clothing
+
+An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/OneFit-Clothing-Website
+
+**Tech:** HTML5, CSS3, JavaScript, E-commerce
+
+
+### ✈️ Jettransfer Travels
+
+A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/Jettransfer-Travels-Project-
+
+**Tech:** HTML5, CSS3, JavaScript, Travel Platform
+
+
+### 💰 Expense Tracker App
+
+An app to manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports.
+
+**Tech:** JavaScript, HTML5, CSS3, Local Storage
+
+
+### 🤖 AI Model System – Dataset Metamorphosis (Reverse Curriculum)
+
+An AI model system built with Python to explore machine learning integrations. Gained hands-on experience with AI-driven functionality, data transformation, and model experimentation. Used ChatGPT and GitHub Copilot as pair-programmers to accelerate development.
+
+**Tech:** Python, Machine Learning, AI
+
+
+### ☕ Java Application Development
+
+A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured.
+
+**Tech:** Java, OOP, Programming Logic
+
+
+### 🦩 Ballerina Hello World API
+
+A simple, elegant REST API built with Ballerina – my first step into the world of integration-focused programming.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/ballerina-hello-api-
+
+**Tech:** Ballerina, REST API
+
+
+### 🖼 Lumina - Image Gallery Web App
+
+Lumina is a curated, responsive image gallery featuring dynamic category filtering and an immersive lightbox experience. Built with pure HTML, CSS, and JavaScript - no frameworks, no dependencies.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/lumina-image-gallery-app
+
+**Tech:** HTML5, CSS3, JavaScript, DOM Manipulation
 
 ---
 
+## 🏷️ Tech Stack Used
 
+`HTML5` | `CSS3` | `JavaScript (ES6)` | `React` | `Tailwind CSS` | `GSAP` | `REST APIs` | `Storybook` | `Git` | `GitHub` | `Python` | `Java` | `Ballerina`
+
+---
+
+## 📂 GitHub Profile
+
+**🔗 All repositories:** https://github.com/lawanmamethu
+
+---
 
 ## 🌱 Recent activity
 
