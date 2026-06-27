@@ -85,6 +85,15 @@ Vanilla JavaScript counter demonstrating DOM manipulation with increment, decrem
 **Tech:** HTML5, CSS3, JavaScript, Event Listeners
 
 
+### 🎮 HandVision Games - AI-Powered Hand Controlled Games
+
+HandVision Games is an interactive gaming platform that uses Computer Vision and AI to track your hand movements in real-time. Control games using natural hand gestures - no keyboard or mouse required! Features two exciting games: Target Practice (aim & shoot with pinch gesture) and Catch Falling Objects (move hand to catch). Built with real-time hand tracking at 60 FPS, dynamic difficulty scaling, combo scoring system, and win celebrations with particles and emojis.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/HandVision-Games
+
+**Tech:** Python, OpenCV, MediaPipe, PyGame, NumPy, Computer Vision, Machine Learning
+
+
 ### ⚛️ React SPA
 
 Single Page Application with React Router (Home, About, Contact pages). Features Context API for state management, smooth navigation without page reloads, and responsive design.
