@@ -71,13 +71,6 @@ A fully responsive landing page with semantic HTML5, CSS Flexbox/Grid, smooth sc
 **Tech:** HTML5, CSS3, JavaScript
 
 
-### 📝 Interactive Form
-
-Dynamic form with real-time validation for name, email, phone, and password. Features password strength meter, live error messages, and focus/blur events for better UX.
-
-**Tech:** HTML5, CSS3, JavaScript, DOM Manipulation
-
-
 ### 🧮 Counter App
 
 Vanilla JavaScript counter demonstrating DOM manipulation with increment, decrement (min zero), and reset buttons. Clean, minimalistic design with event listeners.
@@ -119,20 +112,6 @@ Modern brand dashboard with fully customized Tailwind theme (sunset gradient col
 **Tech:** Tailwind CSS, HTML5, CSS3, JavaScript
 
 
-### 📦 Component Library
-
-Reusable React component library (Button, Card, Input, Modal) documented with Storybook. Features ARIA accessibility, multiple variants, and NPM package ready.
-
-**Tech:** React, Storybook, CSS3, ARIA
-
-
-### ⚡ Performance Optimization
-
-Optimized web app using Lighthouse achieving 95+ scores. Implemented lazy loading, WebP images, minification, caching, and reduced render-blocking resources.
-
-**Tech:** HTML5, CSS3, JavaScript, Lighthouse, WebP
-
-
 ### 🎬 GSAP Advanced Animations
 
 Professional animations using GSAP including scroll-triggered effects, hover interactions (rocket launch, heartbeat, spin, wobble, pulse, glow), timeline sequences, and parallax scrolling.
@@ -166,6 +145,14 @@ An app to manage user's daily expenses and income efficiently. Users can add tra
 
 **Tech:** JavaScript, HTML5, CSS3, Local Storage
 
+## My AI Team 
+
+My AI Team is a revolutionary creative collaboration platform that puts you in the director's chair with a full squad of specialized AI agents working for you. It's not just another AI tool - it's your personal creative studio where you direct, AI executes, and together you forge masterpieces. 
+
+**🔗 GitHub:** https://github.com/lawanmamethu/my-ai-team 
+
+**Tech:** Streamlit, Groq API, Python, Creative AI
+
 
 ### 🤖 AI Model System – Dataset Metamorphosis (Reverse Curriculum)
 
@@ -179,15 +166,6 @@ An AI model system built with Python to explore machine learning integrations. G
 A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured.
 
 **Tech:** Java, OOP, Programming Logic
-
-
-### 🦩 Ballerina Hello World API
-
-A simple, elegant REST API built with Ballerina – my first step into the world of integration-focused programming.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/ballerina-hello-api-
-
-**Tech:** Ballerina, REST API
 
 
 ### 🖼 Lumina - Image Gallery Web App
