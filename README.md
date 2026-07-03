@@ -145,7 +145,7 @@ An app to manage user's daily expenses and income efficiently. Users can add tra
 
 **Tech:** JavaScript, HTML5, CSS3, Local Storage
 
-## My AI Team 
+## 🎨 My AI Team 
 
 My AI Team is a revolutionary creative collaboration platform that puts you in the director's chair with a full squad of specialized AI agents working for you. It's not just another AI tool - it's your personal creative studio where you direct, AI executes, and together you forge masterpieces. 
 
