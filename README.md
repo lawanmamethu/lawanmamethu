@@ -64,6 +64,72 @@ I'm comfortable across the full stack - here's what I reach for depending on the
 
 These are projects I'm proud of. Some started as internship tasks, others as personal ideas – all ended up as real, working products.
 
+### 👗 OneFit Clothing
+
+An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/OneFit-Clothing-Website
+
+**Tech:** HTML5, CSS3, JavaScript, E-commerce
+
+
+### ✈️ Jettransfer Travels
+
+A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/Jettransfer-Travels-Project-
+
+**Tech:** HTML5, CSS3, JavaScript, Travel Platform
+
+
+### 🎮 HandVision Games - AI-Powered Hand Controlled Games
+
+HandVision Games is an interactive gaming platform that uses Computer Vision and AI to track your hand movements in real-time. Control games using natural hand gestures - no keyboard or mouse required! Features two exciting games: Target Practice (aim & shoot with pinch gesture) and Catch Falling Objects (move hand to catch). Built with real-time hand tracking at 60 FPS, dynamic difficulty scaling, combo scoring system, and win celebrations with particles and emojis.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/HandVision-Games
+
+**Tech:** Python, OpenCV, MediaPipe, PyGame, NumPy, Computer Vision, Machine Learning
+
+
+## 🎨 My AI Team 
+
+My AI Team is a revolutionary creative collaboration platform that puts you in the director's chair with a full squad of specialized AI agents working for you. It's not just another AI tool - it's your personal creative studio where you direct, AI executes, and together you forge masterpieces. 
+
+**🔗 GitHub:** https://github.com/lawanmamethu/my-ai-team 
+
+**Tech:** Streamlit, Groq API, Python, Creative AI
+
+
+### 🤖 AI Model System – Dataset Metamorphosis (Reverse Curriculum)
+
+An AI model system built with Python to explore machine learning integrations. Gained hands-on experience with AI-driven functionality, data transformation, and model experimentation. Used ChatGPT and GitHub Copilot as pair-programmers to accelerate development.
+
+**Tech:** Python, Machine Learning, AI
+
+
+### 💰 Expense Tracker App
+
+An app to manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports.
+
+**Tech:** JavaScript, HTML5, CSS3, Local Storage
+
+
+### ☕ Java Application Development
+
+A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured.
+
+**Tech:** Java, OOP, Programming Logic
+
+
+### 🖼 Lumina - Image Gallery Web App
+
+Lumina is a curated, responsive image gallery featuring dynamic category filtering and an immersive lightbox experience. Built with pure HTML, CSS, and JavaScript - no frameworks, no dependencies.
+
+**🔗 GitHub:** https://github.com/lawanmamethu/lumina-image-gallery-app
+
+**Tech:** HTML5, CSS3, JavaScript, DOM Manipulation
+
+
 ### 🌐 Responsive Landing Page
 
 A fully responsive landing page with semantic HTML5, CSS Flexbox/Grid, smooth scrolling, and modern animations. Mobile-first design that adapts seamlessly across all devices.
@@ -76,15 +142,6 @@ A fully responsive landing page with semantic HTML5, CSS Flexbox/Grid, smooth sc
 Vanilla JavaScript counter demonstrating DOM manipulation with increment, decrement (min zero), and reset buttons. Clean, minimalistic design with event listeners.
 
 **Tech:** HTML5, CSS3, JavaScript, Event Listeners
-
-
-### 🎮 HandVision Games - AI-Powered Hand Controlled Games
-
-HandVision Games is an interactive gaming platform that uses Computer Vision and AI to track your hand movements in real-time. Control games using natural hand gestures - no keyboard or mouse required! Features two exciting games: Target Practice (aim & shoot with pinch gesture) and Catch Falling Objects (move hand to catch). Built with real-time hand tracking at 60 FPS, dynamic difficulty scaling, combo scoring system, and win celebrations with particles and emojis.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/HandVision-Games
-
-**Tech:** Python, OpenCV, MediaPipe, PyGame, NumPy, Computer Vision, Machine Learning
 
 
 ### ⚛️ React SPA
@@ -121,62 +178,6 @@ Professional animations using GSAP including scroll-triggered effects, hover int
 **🔗 GitHub:** https://github.com/lawanmamethu/gsap-advanced-animations
 
 **Tech:** GSAP, ScrollTrigger, HTML5, CSS3, JavaScript
-
-
-### 👗 OneFit Clothing
-
-An e-commerce website for women's fashion. Premium printed t-shirts and hoodies for people who want to wear something that actually says something. Built with real love for design.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/OneFit-Clothing-Website
-
-**Tech:** HTML5, CSS3, JavaScript, E-commerce
-
-
-### ✈️ Jettransfer Travels
-
-A travel platform focused on making journey planning feel smooth and stress-free. Because nobody should struggle just to get from A to B.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/Jettransfer-Travels-Project-
-
-**Tech:** HTML5, CSS3, JavaScript, Travel Platform
-
-
-### 💰 Expense Tracker App
-
-An app to manage user's daily expenses and income efficiently. Users can add transactions, categorize spending, monitor budgets, and view financial summaries through charts and reports.
-
-**Tech:** JavaScript, HTML5, CSS3, Local Storage
-
-## 🎨 My AI Team 
-
-My AI Team is a revolutionary creative collaboration platform that puts you in the director's chair with a full squad of specialized AI agents working for you. It's not just another AI tool - it's your personal creative studio where you direct, AI executes, and together you forge masterpieces. 
-
-**🔗 GitHub:** https://github.com/lawanmamethu/my-ai-team 
-
-**Tech:** Streamlit, Groq API, Python, Creative AI
-
-
-### 🤖 AI Model System – Dataset Metamorphosis (Reverse Curriculum)
-
-An AI model system built with Python to explore machine learning integrations. Gained hands-on experience with AI-driven functionality, data transformation, and model experimentation. Used ChatGPT and GitHub Copilot as pair-programmers to accelerate development.
-
-**Tech:** Python, Machine Learning, AI
-
-
-### ☕ Java Application Development
-
-A Java application demonstrating object-oriented programming principles including classes, objects, inheritance, and methods. Strengthened programming logic, problem-solving skills, and understanding of how real software is structured.
-
-**Tech:** Java, OOP, Programming Logic
-
-
-### 🖼 Lumina - Image Gallery Web App
-
-Lumina is a curated, responsive image gallery featuring dynamic category filtering and an immersive lightbox experience. Built with pure HTML, CSS, and JavaScript - no frameworks, no dependencies.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/lumina-image-gallery-app
-
-**Tech:** HTML5, CSS3, JavaScript, DOM Manipulation
 
 ---
 
