@@ -14,13 +14,21 @@
 
 ## 👋 Nice to meet you!
 
-I'm **Methuli**, a Software Engineer from 🇱🇰 Sri Lanka. I love building things that actually work *and* look great whether that's a clean UI someone enjoys using, a backend that handles things quietly in the background, or a full product from scratch.
+I'm **Methuli**, a Computer Science Undergraduate Student from 🇱🇰 Sri Lanka. I love building things that actually work *and* look great whether that's a clean UI someone enjoys using, a backend that handles things quietly in the background, or a full product from scratch.
 
 I got into tech because I genuinely enjoy the problem-solving side of it. There's something satisfying about taking a blank screen and turning it into something real that people can use. My projects range from clothing e-commerce to travel platforms I like working on things that feel meaningful in everyday life.
 
-When I'm not coding, you'll probably find me on Instagram 📸 or thinking about my next project idea.
+When I'm not coding, you'll probably find me on Instagram 📸.
 
 > *"First, solve the problem. Then, write the code."*
+
+---
+
+## 🎓 Education 
+
+BSc (Hons) Computer Science – SLIIT City University (SCU) (University of Bedfordshire, UK) 
+
+Expected Graduation: 2027
 
 ---
 
@@ -128,56 +136,6 @@ Lumina is a curated, responsive image gallery featuring dynamic category filteri
 **🔗 GitHub:** https://github.com/lawanmamethu/lumina-image-gallery-app
 
 **Tech:** HTML5, CSS3, JavaScript, DOM Manipulation
-
-
-### 🌐 Responsive Landing Page
-
-A fully responsive landing page with semantic HTML5, CSS Flexbox/Grid, smooth scrolling, and modern animations. Mobile-first design that adapts seamlessly across all devices.
-
-**Tech:** HTML5, CSS3, JavaScript
-
-
-### 🧮 Counter App
-
-Vanilla JavaScript counter demonstrating DOM manipulation with increment, decrement (min zero), and reset buttons. Clean, minimalistic design with event listeners.
-
-**Tech:** HTML5, CSS3, JavaScript, Event Listeners
-
-
-### ⚛️ React SPA
-
-Single Page Application with React Router (Home, About, Contact pages). Features Context API for state management, smooth navigation without page reloads, and responsive design.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/react-mySPA-app
-
-**Tech:** React, React Router, Context API, CSS3
-
-
-### 🌤️ Weather App
-
-Real-time weather application using OpenWeather API. Features debounced search, loading states, error handling, and a beautiful sunset gradient UI. Built with vanilla JavaScript.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/weather-app
-
-**Tech:** HTML5, CSS3, JavaScript, Fetch API, REST APIs
-
-
-### 🎨 Tailwind CSS Dashboard
-
-Modern brand dashboard with fully customized Tailwind theme (sunset gradient colors: coral, orange, yellow). Includes responsive navbar, feature cards, pricing tables, and smooth animations.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/nexura-brand-ui
-
-**Tech:** Tailwind CSS, HTML5, CSS3, JavaScript
-
-
-### 🎬 GSAP Advanced Animations
-
-Professional animations using GSAP including scroll-triggered effects, hover interactions (rocket launch, heartbeat, spin, wobble, pulse, glow), timeline sequences, and parallax scrolling.
-
-**🔗 GitHub:** https://github.com/lawanmamethu/gsap-advanced-animations
-
-**Tech:** GSAP, ScrollTrigger, HTML5, CSS3, JavaScript
 
 ---
 
