@@ -193,18 +193,6 @@ Professional animations using GSAP including scroll-triggered effects, hover int
 
 ---
 
-## 🌱 Recent activity
-
-Every dot on this graph is a commit - a small step toward something bigger.
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lawanmamethu&bg_color=0d1117&color=e96c4c&line=6c5ce7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 💬 Let's connect
 
 I'm always open to interesting conversations, collaborations, or just a friendly hello. Find me here:
